@@ -4,6 +4,10 @@ Este repositorio contiene un conjunto de scripts en Python para la generación d
 
 Este proyecto fue desarrollado como una herramienta práctica para la materia de Simulación, demostrando la aplicación de conceptos estadísticos fundamentales en un entorno de programación.
 
+## 📄 Informe del Proyecto
+
+Para un análisis más detallado, la metodología y la descripción completa de los resultados, podés ver el [informe completo en PDF](TP_2_2_Generadores_de_números_pseudoaleatorios_de_distintas_Distribuciones_de_Probabilidad.pdf).
+
 ## 📂 Estructura del Repositorio
 
 El proyecto está organizado en los siguientes scripts y módulos:
